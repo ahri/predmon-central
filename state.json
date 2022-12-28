@@ -1,6 +1,6 @@
 {
   "vps": {
     "home-docker-website-is-up": false,
-    "vps-disk-20-percent-free": false
+    "vps-disk-20-percent-free": true
   }
 }

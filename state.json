@@ -16,6 +16,6 @@
   },
   "vps": {
     "disk-20-percent-free": true,
-    "home-docker-website-is-up": true
+    "home-docker-website-is-up": false
   }
 }

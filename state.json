@@ -14,6 +14,13 @@
     "mapdone-website-is-up": true,
     "vps-docker-website-is-up": true
   },
+  "trypticon": {
+    "disk-20-percent-free": false,
+    "mapdone-backup-error-log-is-empty": true,
+    "mapdone-website-is-up": true,
+    "travelswithjenn-website-is-up": true,
+    "vps-docker-website-is-up": true
+  },
   "vps": {
     "disk-20-percent-free": true,
     "home-docker-website-is-up": false

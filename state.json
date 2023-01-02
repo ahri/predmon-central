@@ -17,6 +17,6 @@
   "vps": {
     "disk-20-percent-free": true,
     "home-docker-website-is-up": false,
-    "mapdone-backup-success": true
+    "mapdone-backup-success": false
   }
 }

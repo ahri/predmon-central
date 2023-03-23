@@ -12,9 +12,9 @@
     "gdrive-backup-younger-than-36hrs": true,
     "mapdone-backup-error-log-is-empty": true,
     "mapdone-backup-younger-than-60-mins": true,
-    "mapdone-website-is-up": true,
+    "mapdone-website-is-up": false,
     "travelswithjenn-website-is-up": true,
-    "vps-docker-website-is-up": true
+    "vps-docker-website-is-up": false
   },
   "vps": {
     "disk-20-percent-free": true,

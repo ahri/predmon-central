@@ -1,9 +1,9 @@
 {
   "pixie": {
     "disk-20-percent-free": true,
-    "home-docker-website-is-up": true,
+    "home-docker-website-is-up": false,
     "mapdone-backup-error-log-is-empty": true,
-    "mapdone-website-is-up": true,
+    "mapdone-website-is-up": false,
     "travelswithjenn-website-is-up": true,
     "vps-docker-website-is-up": true
   },

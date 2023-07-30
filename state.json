@@ -18,7 +18,7 @@
   },
   "vps": {
     "disk-20-percent-free": false,
-    "home-docker-website-is-up": false,
+    "home-docker-website-is-up": true,
     "mapdone-backup-younger-than-60-mins": true
   }
 }

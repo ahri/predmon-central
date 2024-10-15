@@ -8,7 +8,7 @@
     "vps-docker-website-is-up": true
   },
   "trypticon": {
-    "disk-20-percent-free": true,
+    "disk-20-percent-free": false,
     "gdrive-backup-younger-than-36hrs": true,
     "mapdone-backup-error-log-is-empty": true,
     "mapdone-backup-younger-than-60-mins": false,

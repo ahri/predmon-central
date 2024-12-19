@@ -15,6 +15,6 @@
   },
   "vps": {
     "disk-20-percent-free": true,
-    "mapdone-backup-younger-than-60-mins": false
+    "mapdone-backup-younger-than-60-mins": true
   }
 }

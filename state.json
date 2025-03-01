@@ -14,6 +14,6 @@
     "vps-docker-website-is-up": true
   },
   "vps": {
-    "disk-20-percent-free": false
+    "disk-20-percent-free": true
   }
 }

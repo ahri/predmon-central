@@ -9,7 +9,7 @@
     "disk-20-percent-free": false,
     "gdrive-backup-younger-than-36hrs-unique": true,
     "mapdone-backup-younger-than-60-mins": false,
-    "mapdone-website-is-up": false,
+    "mapdone-website-is-up": true,
     "travelswithjenn-website-is-up": true,
     "vps-docker-website-is-up": true
   },
